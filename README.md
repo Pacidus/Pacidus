@@ -34,7 +34,7 @@
 ## 📊 GitHub Stats  
 
 ![Pacidus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pacidus&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pacidus&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=dracula&hide=javascript,html,css,scss,gnuplot,makefile,TeX,c%2B%2B,c)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pacidus&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=dracula&hide=javascript,html,css,scss,gnuplot,makefile,TeX,c%2B%2B)
 
 ---
 
